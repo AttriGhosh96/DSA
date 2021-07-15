@@ -1,4 +1,5 @@
 //Returns the kth smallest and largest element of an array
+//Complexity O(nlogn)
 package com.dsa450.array;
 
 import java.util.Arrays;
