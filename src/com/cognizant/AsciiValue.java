@@ -13,6 +13,10 @@ public class AsciiValue {
         System.out.println("Integer: " +alpha);
         System.out.println("Character: " +alphaChar);
         System.out.println("String: " +alphaString.substring(1));
-
+//        System.out.println(alphaChar);
+//        for(int i = 0; i <= 255; i++)
+//        {
+//            System.out.println(" The ASCII value of " + (char)i + "  =  " + i);
+//        }
     }
 }
